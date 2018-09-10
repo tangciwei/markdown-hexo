@@ -1,0 +1,30 @@
+{
+  "name": "markdown-hexo",
+  "version": "0.0.1",
+  "description": "markdown导出文件转换为hexo博客文件",
+  "main": "src/index.js",
+  "bin": {
+    "mdh": "bin/bin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tangciwei/markdown-hexo.git"
+  },
+  "keywords": [
+    "markdown",
+    "mweb",
+    "hexo"
+  ],
+  "author": "tangciwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangciwei/markdown-hexo/issues"
+  },
+  "homepage": "https://github.com/tangciwei/markdown-hexo#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
